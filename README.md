@@ -6,6 +6,10 @@ This repository contains solutions to math-related programming challenges, mainl
 
 The purpose of this project is to explore mathematical thinking through code, and to practice solving problems using clean and efficient algorithms.
 
+This project is not something I work on intensively or regularly.  
+But at some moments, especially when I feel unsure or restless,  
+working on these problems brings me a quiet sense of clarity and peace.
+
 ## Contents
 
 - Solutions to Project Euler problems (so far: #1–#17, #20, #25, #29, #35, #40, #48, #97, #120)
@@ -28,6 +32,8 @@ Each problem is saved in its own folder, for example:
 - Alternative solutions: `problem001_1.py`, `problem001_2.py`, etc.
 
 You can run them directly with Python 3.
+
+
 
 ## License
 
