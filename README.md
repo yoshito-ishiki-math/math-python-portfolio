@@ -19,9 +19,13 @@ Working through these problems gave me a sense of focus and calm.
 This repository reflects my personal journey of learning, recovery, and curiosity.
 
 ## How to use
+## How to use
 
-Each problem is saved as a separate file:  
-`problem_1.py`, `problem_2.py`, ...
+Each problem is saved in its own folder, for example:  
+`problems/problem001/` contains the main solution file and any variants.
+
+- Main solution: `problem001.py`
+- Alternative solutions: `problem001_1.py`, `problem001_2.py`, etc.
 
 You can run them directly with Python 3.
 
